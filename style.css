@@ -46,7 +46,7 @@ figcaption {
 * mobile edge */
 .container {
     width    : 100%;
-    max-width: 800px;
+    max-width: 1000px;
     padding  : 10px;
     margin   : 0 auto;
 }
